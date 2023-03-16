@@ -8,6 +8,7 @@
 <br>
 
 ## 더 알아보면 좋을 내용
+- [UML](https://github.com/yeonledev/TIL/blob/main/2023_03/UML.md)
 
 
 <br>
