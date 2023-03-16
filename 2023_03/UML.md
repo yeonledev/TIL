@@ -25,8 +25,8 @@ UML의 방법은 크게 3가지이다.
 
 ## 자주 사용하는 다이어그램 2가지
 
-1. [Sequence Diagram (시퀀스 다이어그램)](https://github.com/yeonledev/TIL/blob/main/2023_03/sequenceDiagram.md)
-2. [Class Diagram (클래스 다이어그램)](https://github.com/yeonledev/TIL/blob/main/2023_03/classDiagram.md)  
+1. [Sequence Diagram (시퀀스 다이어그램)](https://github.com/yeonledev/TIL/blob/main/2023_03/UML/sequenceDiagram.md)
+2. [Class Diagram (클래스 다이어그램)](https://github.com/yeonledev/TIL/blob/main/2023_03/UML/classDiagram.md)  
 
 
 > ex) sequence diagram 그리는 법
